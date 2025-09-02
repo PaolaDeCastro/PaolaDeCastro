@@ -81,6 +81,8 @@ Meu perfil no Linkedin "[Paola De Castro](https://www.linkedin.com/in/paola-de-c
 
 ### 🤖 Estatísticas
 
+### 🤖 Estatísticas
+
 <p>
   <img 
     align="left" 

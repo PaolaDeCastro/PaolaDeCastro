@@ -85,7 +85,7 @@ Meu perfil no Linkedin "[Paola De Castro](https://www.linkedin.com/in/paola-de-c
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=paoladecastro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?         username=paoladecastro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
